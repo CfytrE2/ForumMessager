@@ -6,4 +6,24 @@ To start this app you need to download files from github and start app
 ****************************************
 You need to have Java on your computer
 ****************************************
-This app checks messages on forum every 60sec and type message on screen if there is new message
+To start this app you need to:
+    On linux:
+        java -jar Forummessager.jar
+    On Windows:
+        double click on Forummessager.jar
+****************************************
+After it started, you can see tray icon. 
+Press right button on it and see menu:
+    Проверка сообщений
+    Ввод логин/пароль
+    Выход
+****************************************
+1st part of menu 
+                check messages on forum and 
+                        if there are new messages type message on screen
+2st part of menu 
+                Here you need to type your login and password
+3st part of menu
+                Exit from programm
+****************************************
+This app checks messages on forum every 60sec and type message on screen if there is new message        
