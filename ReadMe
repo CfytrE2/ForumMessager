@@ -8,9 +8,9 @@ You need to have Java on your computer
 ****************************************
 To start this app you need to:
     On linux:
-        java -jar Forummessager.jar
+        java -jar ForumMessager.jar
     On Windows:
-        double click on Forummessager.jar
+        double click on ForumMessager.jar
 ****************************************
 After it started, you can see tray icon. 
 Press right button on it and see menu:
