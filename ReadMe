@@ -1,0 +1,9 @@
+Readme for app ForumChecker:
+****************************************
+This app checks message on forum of Dolgopruidnuy
+****************************************
+To start this app you need to download files from github and start app
+****************************************
+You need to have Java on your computer
+****************************************
+This app checks messages on forum every 60sec and type message on screen if there is new message
